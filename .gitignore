@@ -10,4 +10,6 @@ web-build/
 web-report/
 yarn-error.log
 **/.DS_Store
+.env.production
+.env.development
 
